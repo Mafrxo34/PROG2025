@@ -1,0 +1,11 @@
+*.exe
+*.c
+!TRAB2025.c
+*.cs
+*.csproj
+*.sln
+*.h
+*.gch
+*.html
+obj/
+output/
