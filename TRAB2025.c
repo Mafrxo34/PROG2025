@@ -1,6 +1,9 @@
 #include <stdio.h>
+#include <stdlib.h> 
+#include <string.h>
+#include <time.h>
 
 int main() {
-    printf("Meu programa em C\n");
+    
     return 0;
 }

@@ -1,11 +1,16 @@
 *.exe
-*.c
-!TRAB2025.c
+output/
+obj/
 *.cs
 *.csproj
 *.sln
 *.h
 *.gch
 *.html
-obj/
-output/
+*.o
+*.obj
+*.log
+*.dll
+# ignorar todos .c exceto TRAB2025.c
+*.c
+!TRAB2025.c
